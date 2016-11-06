@@ -1,2 +1,2 @@
-# helloworld.github.io
+# helloworld
 just another hello world programm
