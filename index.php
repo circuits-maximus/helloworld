@@ -98,11 +98,11 @@
 			</div>
 		</article>
 		<footer class="grid">
-			<div class="col grid-center">
+			<div class="col grid">
 				<span>Hi from Berlin</span>
 			</div>
 			<div class="col grid-center">
-				<span></span>
+				<span><?php echo . date('Y') . "Hello World!";</span>
 			</div>
 		</footer>
 	</div>
